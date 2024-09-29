@@ -1,3 +1,7 @@
+input:is([type="button"], [type="submit"], [type="reset"]), input[type="file"]::file-selector-button, button {
+  color: #F5F5F7;
+}
+
 :root {
   /* Default variable overrides */
   --bs-body-bg: #111; /* ln:404 */
