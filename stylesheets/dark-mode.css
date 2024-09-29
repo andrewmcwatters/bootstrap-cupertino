@@ -12,3 +12,7 @@ footer {
   color: #6E6E73;
   background-color: #1d1d1f;
 }
+
+footer .text-muted {
+  /* HACK: */ color: inherit;
+}
