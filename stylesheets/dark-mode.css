@@ -14,5 +14,5 @@ footer {
 }
 
 footer .text-muted {
-  /* HACK: */ color: inherit;
+  /* HACK: */ color: inherit!important;
 }
