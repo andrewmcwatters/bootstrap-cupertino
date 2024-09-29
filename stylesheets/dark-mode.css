@@ -17,6 +17,10 @@ input:is([type="button"], [type="submit"], [type="reset"]), input[type="file"]::
   --bs-nav-link-hover-color: #2997FF;
 }
 
+.form-control {
+  border-color: #424245;
+}
+
 footer {
   color: #6E6E73;
   background-color: #1d1d1f;
