@@ -6,6 +6,7 @@ input:is([type="button"], [type="submit"], [type="reset"]), input[type="file"]::
   /* Default variable overrides */
   --bs-body-bg: #111; /* ln:404 */
   --bs-body-color: #F5F5F7; /* ln:405 */
+  --bs-border-color: #424245;
 }
 
 .card {
