@@ -3,3 +3,7 @@
   --bs-body-bg: #111; /* ln:404 */
   --bs-body-color: #F5F5F7; /* ln:405 */
 }
+
+.card {
+  --bs-card-bg: #141414;
+}
