@@ -7,3 +7,8 @@
 .card {
   --bs-card-bg: #141414;
 }
+
+footer {
+  color: #6E6E73;
+  background-color: #1d1d1f;
+}
