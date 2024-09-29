@@ -8,6 +8,11 @@
   --bs-card-bg: #141414;
 }
 
+.nav {
+  --bs-nav-link-color: #F5F5F7;
+  --bs-nav-link-hover-color: #2997FF;
+}
+
 footer {
   color: #6E6E73;
   background-color: #1d1d1f;
