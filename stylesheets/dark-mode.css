@@ -7,6 +7,8 @@ input:is([type="button"], [type="submit"], [type="reset"]), input[type="file"]::
   --bs-body-bg: #111; /* ln:404 */
   --bs-body-color: #F5F5F7; /* ln:405 */
   --bs-border-color: #424245;
+  --bs-tertiary-bg: #424245;
+  --bs-tertiary-bg-rgb: 66,66,69;
 }
 
 .card {
