@@ -1,4 +1,4 @@
-# bootstrap-apple
+# bootstrap-cupertino
 Bootstrap theme adhering to Apple's Human Interface Guidelines
 
 ## License
